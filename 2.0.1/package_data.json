@@ -1,0 +1,51 @@
+{
+    "name": "007_danish_student_manegment_system",
+    "version": "2.0.1",
+    "description": "This is cli based student manegment system",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "007_danish_student_manegment_system": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Danish Noor"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "007_danish_student_manegment_system": "^2.0.1",
+        "inquirer": "^9.2.23"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "007_danish_student_manegment_system@2.0.1",
+    "_nodeVersion": "20.14.0",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-3hK0xTLlH+obbMmRDA89DDIXSLJn15lxCJutNyPvN0jK4Zq9k1A6oBLspAuF788xlSzQ0tTvByFqUSQzcTwK8A==",
+        "shasum": "10ed5eed0ed71120424d772b640e8a1754a991be",
+        "tarball": "https://registry.npmjs.org/007_danish_student_manegment_system/-/007_danish_student_manegment_system-2.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 24854,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDHgdbNug3YDSQwjrCMsWvY3cEhh+4igo0LeWsNOLYr2AIgdIYnXZPtloWQQq/ChlzOvvbFDZlbug5cMe/Qr/rzgWg="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "danishnoor007",
+        "email": "kinzadani00@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/007_danish_student_manegment_system_2.0.1_1719911728393_0.00821386908055266"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,60 @@
+{
+    "name": "00_word_counter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "00_word_counter": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "figlet": "^1.5.2",
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/figlet": "^1.5.5",
+        "@types/inquirer": "^9.0.3"
+    },
+    "gitHead": "3a0a2131f08bf18fa45137cfb0199f61860afd6c",
+    "_id": "00_word_counter@1.0.0",
+    "_nodeVersion": "16.18.0",
+    "_npmVersion": "9.1.2",
+    "dist": {
+        "integrity": "sha512-Sg6r25+J6mpjzGDY/6Hg2WNZYmbMU2es/32JwbftFeyXep7K761bzALYmQJM1R5Tpok7DhaZLEnN4//cMiWzrg==",
+        "shasum": "aa6675f05363bd93f58d9c4b9813cb829ac7af3a",
+        "tarball": "https://registry.npmjs.org/00_word_counter/-/00_word_counter-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14931,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDmCrBSFX/Y/UUcAcCKbPHkZ7Yx1kqXG+FZJh4hwFvZfgIhAMka4X3P7hEYq3B0ZUSuryfe/NNwuXg/DxhBiFmYRm6n"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjl7ZPACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq4NA/8DcbD8jDTQoPSd7+wWyWXDa0nJeTcWItCMX+uHDQOGhApfUv7\r\n6qt7Bw6fRKQ6Vc6ZWRfgqUyiEZGb703Msfw7Cg8ExMGZ9eJHhGRyxQTrGBTe\r\nRvm5wk03CtuJ+1vL3IivoYLOLOXoFAy4YNoczAh040FZhjnsaJ5XQsllKZZm\r\nfAswZto6g9Uz1uneQ3D1pw78INevYVBPQp3xLC7N1Wtb9OS7Lrcn25M+DUuY\r\nYcs9d5hutDH0IeqcYRSiddEYuQgXqCXurq9vuhRbANpXWmb6GLlb64TQJsnz\r\nn3EPyHmUEme8ZmkXJWuGHjpQw+6EnmZkRbXtAlS/Jh29Le4VVEi3lzT9Z0Xz\r\nFCptVd12wPFmTLhutSbGNFc/O/QDioWwrir/Tv0sV7YmeYdx++hMwwSTzS4i\r\nPRvqAhq63A7vjM7x8sUwZ9SCFQgE72kVN3pZjZz4uNkeb3I4V1265zMW94V2\r\nVCNS1hyafMJg/8NxgGqp6wbXPp2dDlqbZz9WRaaIPL95pN4wACmwCvbuUYGG\r\ncOf6DK0g8UVtfUcnUbeqSJwdxiPBpGZfMNxr9+U4Esn3sgxyIPrjsj1rZgsK\r\niZ6pxqjkVw7dVRMaKYz87cm4IxC0hReTg27mbgHNifS85EQTfawxWFYDFwdT\r\nhrjFRVB3N+9TwGV568KsOQdWypy/qHa6L7I=\r\n=Gvgs\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "sajidmunawar",
+        "email": "sajidmunawar666@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sajidmunawar",
+            "email": "sajidmunawar666@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/00_word_counter_1.0.0_1670886991044_0.13022460869515884"
+    },
+    "_hasShrinkwrap": false
+}
